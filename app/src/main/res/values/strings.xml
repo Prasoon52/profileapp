@@ -1,0 +1,20 @@
+<resources>
+    <string name="main_image_desc">Main image</string>
+    <string name="text_heading">PrasoonPatel</string>
+    <string name="designation">Student interested in cp, ml, app development</string>
+    <string name="skills_button">Skills</string>
+    <string name="experience_button">Experience</string>
+    <string name="education_button">Education</string>
+    <string name="achievement_button">Achievement</string>
+    <string name="welcome_to_the_education_screen">Welcome to the Education Screen</string>
+    <string name="welcome_to_the_achievement_screen">Welcome to the Achievement Screen</string>
+    <string name="skills_screen">Skills Screen</string>
+    <string name="class_4th_to_12th_from_dps">class 4th to 12th from dps</string>
+    <string name="college_iiitlucknow_currently_in_1st_year">college=iiitlucknow currently in 1st year</string>
+    <string name="todo">TODO</string>
+    <string name="_90_percent_in_class_12">90 Percent in class 12</string>
+    <string name="interschool_cricket">interschool cricket</string>
+    <string name="_99_percentile_jee_mains">99 percentile jee mains</string>
+    <string name="doing_cp_and_app_dev">doing cp and app dev</string>
+
+</resources>
